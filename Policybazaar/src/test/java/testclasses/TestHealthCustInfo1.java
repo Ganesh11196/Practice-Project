@@ -77,7 +77,7 @@ public class TestHealthCustInfo1 {
 
 	}
 	@AfterMethod
-	public void logoutApplication
+	public void logoutApplication()
 	{
 		
 	}
